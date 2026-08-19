@@ -1,3 +1,5 @@
+草泥马，买的破解码，说的永久。问你的时候 你跟个傻逼一样
+
 # Any Router 多账号自动签到
 
 [![GitHub Actions](https://github.com/millylee/anyrouter-check-in/workflows/PR%20Quality%20Checks/badge.svg)](https://github.com/millylee/anyrouter-check-in/actions)
